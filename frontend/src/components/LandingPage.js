@@ -368,7 +368,7 @@ const LandingPage = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <div className="text-center mb-6">
-                <h3 className="text-2xl font-bold text-red-600 mb-4">❌ Irrigação Tradicional</h3>
+                <h3 className="text-2xl font-bold text-red-600 mb-4">Irrigação Tradicional</h3>
                 <img 
                   src="https://images.unsplash.com/photo-1492496913980-501348b61469?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2MzR8MHwxfHNlYXJjaHwyfHxhZ3JpY3VsdHVyZSUyMHRlY2hub2xvZ3l8ZW58MHx8fGdyZWVufDE3NTM2MTgzMzV8MA&ixlib=rb-4.1.0&q=85"
                   alt="Irrigação tradicional"
@@ -416,7 +416,7 @@ const LandingPage = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
             >
               <div className="text-center mb-6">
-                <h3 className="text-2xl font-bold text-green-600 mb-4">✅ Irrigação Inteligente RaizTech</h3>
+                <h3 className="text-2xl font-bold text-green-600 mb-4">Irrigação Inteligente RaizTech</h3>
                 <img 
                   src="https://images.unsplash.com/photo-1720071702672-d18c69cb475c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2MzR8MHwxfHNlYXJjaHwzfHxhZ3JpY3VsdHVyZSUyMHRlY2hub2xvZ3l8ZW58MHx8fGdyZWVufDE3NTM2MTgzMzV8MA&ixlib=rb-4.1.0&q=85"
                   alt="Tecnologia RaizTech"
@@ -683,7 +683,7 @@ const LandingPage = () => {
 
               <div className="text-center mt-4">
                 <p className="text-green-100 text-sm">
-                  📞 Ou ligue agora: <strong>(11) 99999-9999</strong>
+                  📞 Ou ligue agora: <strong>(61) 99265-5144</strong>
                 </p>
               </div>
             </motion.form>
@@ -757,7 +757,7 @@ const LandingPage = () => {
           </div>
 
           <div className="border-t border-gray-800 pt-8 mt-8 text-center text-gray-400">
-            <p>&copy; 2025 RaizTech. Todos os direitos reservados. Irrigação inteligente para o futuro do agronegócio.</p>
+            <p>&copy; 2025 RaizTech. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
