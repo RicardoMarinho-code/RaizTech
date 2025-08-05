@@ -702,7 +702,7 @@ const LandingPage = () => {
             className="bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition-colors"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
-            onClick={() => window.open('https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre os irrigadores inteligentes da RaizTech.', '_blank')}
+            onClick={() => window.open('https://wa.me/5561992655144?text=Olá! Gostaria de saber mais sobre os irrigadores inteligentes da RaizTech.', '_blank')}
           >
             <MessageCircle className="h-6 w-6" />
           </motion.button>
